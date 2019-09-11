@@ -1,0 +1,40 @@
+//  NETBEANS  10 de sptiembre //
+package hola;
+
+import java.util.Scanner;
+
+/**
+ *
+ * @author Aprendiz
+ */
+public class PRUEBAS {
+    public static void main(String[] args) {
+       
+         System.out.println (" van hacer las 8 pm");
+          System.out.println (" BUNEAS NOCHES");
+           System.out.println ("\n aprendis \n\n\n\n");
+           System.out.print ("NOCHE");
+           
+           int  a= 10;
+           int  b= 30;
+           int  n1, n2, n3, coco = 18;
+           System.out.print(coco);
+           System.out.println("LA SUMA DE"+a+"mas"+coco+ "y"+b+"es;");
+           n1 =a+b+coco;
+           System.out.println(n1);
+           
+           
+   // PARA SACAR LA SUMA DE DOS NUMERO Y DE RESLTADO //
+   
+   
+          System.out.println(" VAMOS A REALIZAR UNA SUMA ");
+          Scanner tecla= new Scanner( System.in);
+          System.out.println("INGRESE EL PRIMER NUMERO");
+           n1 = tecla.nextInt();
+          System.out.println("\n INGRESE EL SEGUNDO NUMERO");
+          n2= tecla.nextInt();
+          n3 =n1+n2;
+          System.out.println( "ES TORAL ES ");
+          System.out.println( n3);
+    }
+}
