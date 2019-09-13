@@ -1,0 +1,120 @@
+
+
+//  EJERC ( 1 ) FORMA DE QUE LE IMPRIMA DE UN NUMERO MENOR ASTA EL NUMERO QUE LE DIGA 
+package eje.del.pkg12.de.septiembre.anderson;
+
+import java.util.Scanner;
+
+
+public class EjeDel12DeSeptiembreAnderson {
+
+     public static void main(String[] args) {
+            
+/*
+        {
+        Scanner pichon = new Scanner (System.in);
+        int numero1= pichon.nextInt();
+        int numero2= pichon.nextInt();
+        int numeri2;
+        while ( numero2 <= numero1 )
+        {
+        System.out.println(" ERROR EN SEGUNDO NUMERO TIENE QUE SER MAYOR AL QUE EL PRIMERO");
+        numero2=pichon.nextInt();
+        }
+        while ( numero1 <= numero2)
+        {
+        System.out.println (numero1);
+        numero1++;
+        }
+        }
+         
+         
+         
+//  EJERC ( 2 ) FORMA DE QUE LE IMPRIMA DE UN NUMERO MENOR ASTA EL NUMERO QUE LE DIGA
+        
+        
+        Scanner anderson =new Scanner (System.in);
+        int numero1= anderson.nextInt();
+        int numero2= anderson.nextInt();
+        do
+        {
+        System.out.println("ERROR EL SEGUNDO NUMERO DEBE SER MAYOR QUE EL PRIMERO");
+        System.out.println("INGRESE EL PRIMER NUMERO");
+        numero2=anderson.nextInt();
+        System.out.println("\n INGRESE EL SEGUNDO NUMERO");
+        }
+        while (numero2<= numero1);
+        do
+        {
+        System.out.println(numero1);
+        numero1++;
+        }
+        while ( numero1<=numero2) ;
+     
+         
+         
+        
+//  EJERC ( 3 )  EJERCI PARA UNIFICAR LAS PALABRA DE UN SOLA
+        
+        
+        Scanner anderson =new Scanner (System.in);
+        String palabra1 =" EL FIN DE SEMANA ";
+        String palabra2 ="  COMO HELADO \n";
+        System.out.println (palabra1+palabra2 );
+    
+    
+         
+ 
+//  EJERC ( 4 )  MODO DE IMPRIMIR EL NOMBRE DE UNO
+
+
+        Scanner Scanner = new Scanner (System.in);
+        String nombre,apellido;
+        System.out.println("UN APLICATIVO PARA QUE SALGA EL NOMBRE Y EL APELLIDO \n");
+        System.out.println( "INGRESE SU NOMBRE");
+        nombre =Scanner.nextLine();
+        System.out.println ("INGRESE SU APELLIDO");
+        apellido =Scanner.nextLine();
+        
+        System.out.println ("SU NOMBRE ES:"+nombre+" "+apellido);
+        
+    
+
+
+//  EJERC ( 5 )  PARA SACAR UN CARATER NORMAL ( CUALQUIERA )
+
+
+        char coco;
+        coco = ' ';
+        System.out.println("digite el caracter");
+        Scanner lulo = new Scanner(System.in);
+        coco =lulo.next().charAt(0);
+        System.out.println ("su caracter es;"+coco);
+
+
+*/ 
+                
+//  EJERC ( 6 )  MODO DE IMPRIMIR EL N   
+
+    Scanner i = new Scanner (System.in);
+     for (int i = 1; i <=6; i ++)
+     {
+         System.out.println("desperta !in");
+     }
+     {
+         System.out.println (<< i << "\n")
+     }
+
+
+//  EJERC ( 5 )  PARA SACAR UN CARATER NORMAL ( CUALQUIERA )
+
+
+      
+            
+            
+         
+    }           
+            
+}
+
+
